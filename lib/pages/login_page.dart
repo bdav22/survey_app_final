@@ -94,13 +94,6 @@ class _LoginPageState extends State<LoginPage> {
                     width: 325,
                   ),
 
-                  Text(
-                    'Welcome back to Whichspot, let\'s find the party',
-                    style: TextStyle(
-                      color: Colors.grey[700],
-                      fontSize: 16,
-                    ),
-                  ),
 
                   const SizedBox(height: 30),
 

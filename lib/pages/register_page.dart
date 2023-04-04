@@ -99,7 +99,7 @@ class _RegisterPageState extends State<RegisterPage> {
                   */
 
                   Image.asset(
-                    'lib/assets/whw4.png',
+                    '/Users/bendavenport/survey_app/lib/images/CatholicULogo.png',
                     height: 200,
                     width: 325,
                   ),
